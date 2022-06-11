@@ -1,1 +1,1 @@
-training1ブランチでの変更
+training1ブランチの変更
